@@ -10,9 +10,6 @@ Welcome to the **Reestar Hotel Food Order Website**! This is a simple one-page w
 - **Clean design**: Simple, well-structured HTML and CSS, easy to understand and customize.
 
 ## Food Menu Items:
-Dhosa
-soup
-Biryani
-Pasta
+Dhosa | soup | Biryani | Pasta
 
 Thanks for visiting our Reestar website!
