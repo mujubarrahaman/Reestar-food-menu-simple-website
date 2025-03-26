@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    
+        font-family: "Young Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+      
+}
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    
+}
+.section-two{
+    display: inline-block;
+    border: black 2px solid;
+    height: 545px;
+    width: 225px;
+    border-width: 2px;
+
+}
+.section-three{
+    display: inline-block;
+    border: black 2px solid;
+    width: 225px;
+    height: 545px;
+    border-width: 2px;
+}
+.section-four{
+    display: inline-block;
+    border: black 2px solid;
+    width: 225px;
+    height: 545px;
+    border-width: 2px;
+
+}
+.section-five{
+    display: inline-block;
+    border: black 2px solid;
+    width: 225px;
+    height: 545px;
+    border-width: 2px;
+
+}
+.container{
+    text-align: center;
+    margin-top: 10px;
+}
+.contact-details{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+}
+.table-form{
+    display: inline-block;
+    text-align: center;
+}
+.contact-details__name{
+    border-color: white;
+    color: white;
+    margin-bottom: 10px;
+    padding: 2px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.button-send{
+    padding: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: yellow;
+    cursor: pointer;
+}
+.button-order{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
